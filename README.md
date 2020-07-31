@@ -8,7 +8,11 @@ I'm Sachu , I am a blockchain engineer passionate about working on decentralised
 - 📫 How to reach me: sachushajiabraham@gmail.com
 - ⚡ Fun fact: I love to take interactive sessions on technical topics
 
-### Blog Posts
+### My Posts
+
+These are latest posts in [medium](https://medium.com)
+
+#### Medium
 
 <!-- MEDIUM:START -->
 - [BlockChain Explained For Dummies](https://medium.com/@sachushajiabraham/blockchain-explained-for-dummies-f0979f065f00?source=rss-780edabaf7e0------2)
