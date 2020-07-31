@@ -1,4 +1,6 @@
 ### Hi there 👋✨
+[![Twitter Follow](https://img.shields.io/twitter/follow/sachu_abraham?label=sachu&style=social)](https://twitter.com/sachu_abraham)
+
 
 I'm Sachu 🙋 , I am a blockchain engineer passionate about working on decentralised applications 💪. I'm also interested in setting up highly scalable architectures on top of Kubernetes and using Istio as service mesh 🎉🎉. I'm a huge docker fan 🐳 and loves to explore new things when I have the time😇.
 
