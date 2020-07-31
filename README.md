@@ -11,4 +11,6 @@ I'm Sachu , I am a blockchain engineer passionate about working on decentralised
 ### Blog Posts
 
 <!-- MEDIUM:START -->
+- [BlockChain Explained For Dummies](https://medium.com/@sachushajiabraham/blockchain-explained-for-dummies-f0979f065f00?source=rss-780edabaf7e0------2)
+- [A Gentle Introduction to Hedera Hashgraph](https://medium.com/@sachushajiabraham/a-gentle-introduction-to-hedera-hashgraph-c89cd665ddbb?source=rss-780edabaf7e0------2)
 <!-- MEDIUM:END -->
