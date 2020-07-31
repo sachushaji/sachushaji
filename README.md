@@ -10,7 +10,7 @@ I'm Sachu , I am a blockchain engineer passionate about working on decentralised
 
 ### My Posts
 
-These are latest posts in [medium](https://medium.com)
+These are my latest posts in [medium](https://medium.com)
 
 #### Medium
 
