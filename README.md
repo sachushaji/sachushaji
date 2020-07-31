@@ -8,12 +8,12 @@ I'm Sachu 🙋 , I am a blockchain engineer passionate about working on decentra
 - 📫 How to reach me: sachushajiabraham@gmail.com
 - ⚡ Fun fact: I love to take interactive sessions on technical topics
 
-### This week I worked on
+### This week I worked on 👷
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-### My Posts
+### My Posts 🚩
 
 These are my latest posts in [medium](https://medium.com) ⛵
 
