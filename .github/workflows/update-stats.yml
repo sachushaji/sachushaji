@@ -1,6 +1,9 @@
 ame: Update stats
 
 on:
+  push:
+    branches: [ master ]
+
   schedule:
     # Runs at 12am UTC
     - cron: '0 0 * * *'
