@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**sachushaji/sachushaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sachu , I am a blockchain engineer passionate about working on decentralised applications. I'm also interested in setting up highly scalable architectures on top of Kubernetes and using Istio as service mesh. I'm a huge docker fan and loves to explore new things when I have the time.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some cool projects
+- 🌱 I’m currently learning Kubernetes ,Istio and GRPC
+- 💬 Ask me about blockchain and scaling microservice architectures
+- 📫 How to reach me: sachushajiabraham@gmail.com
+- ⚡ Fun fact: I love to take interactive sessions on technical topics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Blog Posts
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
