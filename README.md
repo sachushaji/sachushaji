@@ -10,7 +10,9 @@ I'm Sachu 🙋 , I am a blockchain engineer passionate about working on decentra
 
 ### This week I worked on 👷
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### My Posts 🚩
