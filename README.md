@@ -15,10 +15,7 @@ I'm Sachu 🙋 , I am a blockchain engineer passionate about working on decentra
 ### This week I worked on 👷
 <!--START_SECTION:waka-->
 ```text
-Bash         12 mins         ██████████▓░░░░░░░░░░░░░░   42.47 % 
-Markdown     10 mins         █████████▒░░░░░░░░░░░░░░░   36.87 % 
-JavaScript   5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Solidity     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
