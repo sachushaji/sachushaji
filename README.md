@@ -9,7 +9,7 @@ I'm Sachu 🙋 , I am a full stack engineer passionate about working on decentra
 - 🔭 I’m currently working on some cool projects
 - 🌱 I’m currently learning Kubernetes ,Istio and GRPC
 - 💬 Ask me about blockchain and scaling microservice architectures
-- 📫 How to reach me: sachushajiabraham@gmail.com
+- 📫 How to reach me: hello@sachu.me
 - ⚡ Fun fact: I love to take interactive sessions on technical topics
 
 ### This week I worked on 👷
