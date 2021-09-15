@@ -15,9 +15,7 @@ I'm Sachu 🙋 , I am a full stack engineer passionate about working on decentra
 ### This week I worked on 👷
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 35 mins    ████████████████████████▒   96.96 % 
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
