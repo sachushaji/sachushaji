@@ -15,7 +15,8 @@ I'm Sachu 🙋 , I am a full stack engineer passionate about working on decentra
 ### This week I worked on 👷
 <!--START_SECTION:waka-->
 ```text
-Python       1 hr 27 mins    █████████████████████████   99.71 % 
+Python       1 hr 27 mins    ██████████████████▒░░░░░░   72.93 % 
+JavaScript   32 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.05 % 
 ```
 <!--END_SECTION:waka-->
 
