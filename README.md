@@ -8,7 +8,7 @@ I'm Sachu 🙋 , I am an engineer passionate about working on decentralised appl
 
 - 🔭 I’m currently working on some cool projects
 - 🌱 I’m currently exploring polkadot
-- 💪 I recently helped someone to save funds using flashbots
+- 🤖 I recently helped someone to save funds using flashbots
 - 💬 Ask me about blockchain and working with microservice architectures
 - 📫 How to reach me: hello@sachu.me
 - ⚡ Fun fact: I love to take interactive sessions on technical topics
