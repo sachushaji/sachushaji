@@ -4,10 +4,10 @@
 [![Linkedin: sachushaji](https://img.shields.io/badge/-Sachu%20Shaji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachushaji/)](https://www.linkedin.com/in/sachushaji/)
 
 
-I'm Sachu 🙋 , I am a full stack engineer passionate about working on decentralised applications 💪. I'm also interested in setting up highly scalable architectures on top of Kubernetes and using Istio as service mesh 🎉🎉. I'm a huge docker fan 🐳 and loves to explore new things when I have the time😇.
+I'm Sachu 🙋 , I am an engineer passionate about working on decentralised applications 💪. I'm also interested in setting up highly scalable architectures on top of Kubernetes and using Istio as service mesh 🎉🎉. I'm a huge docker fan 🐳 and loves to explore new things when I have the time😇.
 
 - 🔭 I’m currently working on some cool projects
-- 🌱 I’m currently learning Golang and Kubernetes
+- 🌱 I’m currently exploring polkadot
 - 💬 Ask me about blockchain and working with microservice architectures
 - 📫 How to reach me: hello@sachu.me
 - ⚡ Fun fact: I love to take interactive sessions on technical topics
