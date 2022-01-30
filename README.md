@@ -16,10 +16,7 @@ I'm Sachu 🙋 , I am an engineer passionate about working on decentralised appl
 ### This week I worked on 👷
 <!--START_SECTION:waka-->
 ```text
-TypeScript   48 mins         ███████████████████▒░░░░░   77.37 % 
-JSON         6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-YAML         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Bash         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
