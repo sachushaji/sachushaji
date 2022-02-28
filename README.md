@@ -15,9 +15,11 @@ I'm Sachu 🙋 , I am an engineer passionate about working on decentralised appl
 
 ### This week I worked on 👷
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ### My Posts 🚩
